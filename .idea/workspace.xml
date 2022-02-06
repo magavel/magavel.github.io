@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e0a3818-d5e3-4ee9-80fc-06b9bd71b596" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +18,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24bJ6H2SoC3REHsVAZTAnnIO7DO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -73,6 +71,7 @@
       <workItem from="1644168124785" duration="18000" />
       <workItem from="1644168147425" duration="24000" />
       <workItem from="1644168180035" duration="151000" />
+      <workItem from="1644168361915" duration="664000" />
     </task>
     <servers />
   </component>
