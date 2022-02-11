@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e0a3818-d5e3-4ee9-80fc-06b9bd71b596" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/About.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Carreer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/Footer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,11 +24,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24bJ6H2SoC3REHsVAZTAnnIO7DO" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -71,7 +89,9 @@
       <workItem from="1644168124785" duration="18000" />
       <workItem from="1644168147425" duration="24000" />
       <workItem from="1644168180035" duration="151000" />
-      <workItem from="1644168361915" duration="664000" />
+      <workItem from="1644168361915" duration="856000" />
+      <workItem from="1644222503858" duration="2245000" />
+      <workItem from="1644592308810" duration="5472000" />
     </task>
     <servers />
   </component>

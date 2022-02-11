@@ -1,16 +1,22 @@
 import { useState } from 'react'
+import logo from './logo.svg'
+import './App.scss'
 import { Header } from './components/Header'
+import { Footer } from './components/Footer'
+import { About } from './components/About'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Container from 'react-bootstrap/Container';
 
-import './App.css'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className="App">
-        <Header></Header>
-      ssss
-    </div>
+    <Container fluid >
+        <Header/>
+        <About/>
+        <Footer/>
+    </Container>
   )
 }
 
